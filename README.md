@@ -3,10 +3,6 @@
 
 就看天气该应用就是如同它的名字一样，只做一个单纯、简单的看天气软件。这么多天气软件，你选择了我，这是我的幸运。
 
-从15年10月上线，到目前经历两次重大改版，一次代码的重构，一次界面的大幅度改动，目的都是为了你们。
-在开源的过程中，收到了很多来自有趣的你们的邮件。我也曾遇到过棘手的问题无处咨询又谷歌不到。那个时候的我，也可能是现在的你。所以我希望能够帮助到你。
-
-----
 
 ### 简介
 就看天气——是一款遵循 **Material Design** 风格的只看天气的APP。
@@ -39,16 +35,6 @@
 	<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
 ```
-
-### 下载地址
-
-Fir.im: http://fir.im/seeWeather
-
-酷安市场：http://www.coolapk.com/apk/com.xiecc.seeWeather
-
-豌豆荚：http://www.wandoujia.com/apps/com.xiecc.seeWeather
-
-[更新日志](changeLog.md)
 
 
 ### TODO
@@ -97,15 +83,7 @@ Fir.im: http://fir.im/seeWeather
 - [@泡在网上编代码][14]
 
 感谢优秀的设计师提供素材：
-- 多城市卡片 by [YujunZhu](http://yujunzhu.zcool.com.cn/)
 
-### 关于作者
-
-谢三弟
-
-- [简书](http://www.jianshu.com/users/3372b4a3b9e5/latest_articles)
-- [个人博客](http://imxie.itscoder.com)
-- [知乎](https://www.zhihu.com/people/xcc3641.github.io)
 
 ### License
 
